@@ -1,0 +1,1 @@
+Sample for playback CAF file format with AAC encoding on iOS platform
